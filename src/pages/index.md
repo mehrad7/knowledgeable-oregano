@@ -182,7 +182,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
