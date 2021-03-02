@@ -178,25 +178,6 @@ sections:
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
-      - title_align: left
-        content: >
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/hanson-deck.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
