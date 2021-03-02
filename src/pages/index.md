@@ -178,7 +178,7 @@ sections:
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
-      - title: lorem-ipsum
+      - title: lore
         subtitle: lorem-ipsum
         title_align: left
         content: >-
