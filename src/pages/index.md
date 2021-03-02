@@ -178,7 +178,7 @@ sections:
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
