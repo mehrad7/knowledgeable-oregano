@@ -179,17 +179,13 @@ sections:
         image_position: left
         image_width: twenty-five
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          I love it when a content writer can really wordsmith and create copy
+          that suits the design intention and style!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Gordon Norman,** *Web Designer, Local Business*
         content_align: left
         actions: []
         actions_align: left
